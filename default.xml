@@ -16,6 +16,7 @@
 	<project path="packages/flow_device_manager" name="CreatorKit/flow_device_manager" revision="dev"/>
 	<project path="packages/flow_led_actuator" name="CreatorKit/flow_led_actuator" revision="dev"/>
 	<project path="packages/libobjects" name="CreatorKit/libobjects" revision="dev"/>
+	<project path="packages/webscripts" name="CreatorKit/webscripts" revision="dev"/>
 	<!-- FlowM2M repositories -->
 	<project path="constrained-os/contiki" name="FlowM2M/contiki" revision="3.0-mikro-e"/>
 	<project path="dist/openwrt" name="FlowM2M/openwrt" revision="master-pistachio"/>
