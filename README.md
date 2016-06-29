@@ -17,21 +17,22 @@ After above steps, your directory structure would be like:
 ├── dist
 │   ├── openwrt
 │   ├── openwrt-ckt-feeds
-|   |       ├── awalwm2m
-|   |       ├── button-gateway
 |   |       ├── device-manager
-|   |       ├── libflow-ex
+|   |       ├── led-controller
 |   |       ├── libflow
 |   |       └── webscripts
 │   └── openwrt-feeds
+|   |       ├── awalwm2m
+|   |       ├── ca8210
 |   |       ├── cgilua
-|   |       └── fping
+|   |       ├── click-apps
+|   |       ├── fping
+|   |       └── u-boot
 └── packages
     ├── AwaLWM2M
-    ├── button-gateway
     ├── button-sensor
     ├── device-manager
-    ├── led-actuator
+    ├── led-controller
     ├── libobjects
     └── webscripts
 ```
