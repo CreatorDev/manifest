@@ -19,7 +19,6 @@ After above steps, your directory structure would be like:
 │   ├── openwrt-ckt-feeds
 |   |       ├── device-manager
 |   |       ├── led-controller
-|   |       ├── libflow
 |   |       └── webscripts
 │   └── openwrt-feeds
 |   |       ├── awalwm2m
