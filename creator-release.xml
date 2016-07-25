@@ -4,7 +4,7 @@
 	<remote name="github"
 		fetch="https://github.com/"/>
 
-	<default revision="refs/heads/master"
+	<default revision="refs/tags/v0.9.3"
 		remote="github"
 		sync-j="4"/>
 
