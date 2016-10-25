@@ -22,7 +22,7 @@
 	<project path="packages/libobjects" name="libobjects"/>
 
 	<!-- Ci40 gateway repositories -->
-	<project path="dist/openwrt" remote="CreatorDev" name="openwrt" revision="creator"/>
+	<project path="dist/openwrt" remote="CreatorDev" name="openwrt" revision="ci40"/>
 	<project path="dist/openwrt-ckt-feeds" name="openwrt-ckt-feeds"/>
 	<project path="dist/Ci40-platform-feed" remote="CreatorDev" name="Ci40-platform-feed"/>
 	<project path="packages/button-led-controller" name="button-led-controller"/>
